@@ -34,6 +34,10 @@ Here are some related projects like tools, scrips and also malware which are eff
 **Client:** React, Redux, TailwindCSS
 
 **Server:** Node, Express
+
+## Authors
+
+- [@_not_your_nobita](https://www.github.com/samsepoil1211)
 <!---
 samsepoil1211/samsepoil1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
