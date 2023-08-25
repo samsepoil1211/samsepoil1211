@@ -6,6 +6,14 @@ I'm a Cybersecurity student and a Hacker...
 ## 🛠 Skills
 Javascript, HTML, CSS, GO and PYTHON...
 
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
 
 ![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.ymsE6tUCwcBCg-IImGzpXgHaIe%26pid%3DApi&f=1&ipt=9822f8a2b4495d7d001c27533d6fd9f707adaa879dc4582b0595052c766914ec&ipo=images)
 
