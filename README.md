@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Technology**
 
-- 🌱 I’m currently learning **Metasploit Framework**
+- 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
 
 - 💬 Ask me about **Linux, Networking, IT hardware & software**
 
