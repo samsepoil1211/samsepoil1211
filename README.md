@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning on **C language**
+- 🔭 I’m currently learning on **Advance DevSecOps**
 
 - 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
 
