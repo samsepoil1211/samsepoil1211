@@ -1,6 +1,5 @@
-<!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Debjit;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
 <p align="center">
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
+  <a href="https://github.com/samsepoil1211">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
   <a href="https://alhamrizvi.wordpress.com/">
@@ -24,8 +23,6 @@
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
-
-
 
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
@@ -85,7 +82,3 @@ Offensive Security Researcher & Penetration Tester specializing in
 ![Shodan](https://img.shields.io/badge/Shodan-Intermediate-black?style=for-the-badge)
 ![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
-
-
-
-
