@@ -10,17 +10,11 @@
   <a href="https://hostnexa.xyz">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="https://alhamrizvi.wordpress.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
-  </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="mailto:pauldebjit1211@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi">
+  <a href="https://www.linkedin.com/in/debjit-pal-1a75b4263">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/Alhamrizvii">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
 
