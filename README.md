@@ -138,7 +138,7 @@ I work on real-world systems where **uptime, security, troubleshooting, and clea
 
 ### 🐧 Linux System Administrator  
 **Beltalk Technologies Private Limited**  
-`2025 — Present`
+`2024 — Present`
 
 - Managing Linux-based systems with focus on stability, uptime, troubleshooting, and secure operations.
 - Supporting server administration tasks including monitoring, configuration, maintenance, and issue resolution.
@@ -156,7 +156,7 @@ I work on real-world systems where **uptime, security, troubleshooting, and clea
 
 ### 🛡️ VAPT Engineer  
 **Freelancer**  
-`2023 — 2025`
+`2022 — 2024`
 
 - Conducted penetration testing and vulnerability assessments for client systems and networks.
 - Provided actionable recommendations to improve cybersecurity posture.
