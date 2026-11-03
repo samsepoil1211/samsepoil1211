@@ -14,9 +14,6 @@
 <a href="mailto:pauldebjit1211@gmail.com">
   <img src="https://img.shields.io/badge/Email-pauldebjit1211%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
-<a href="tel:+916291220307">
-  <img src="https://img.shields.io/badge/Call-%2B91%206291220307-064E3B?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Phone" />
-</a>
 
 <br><br>
 
